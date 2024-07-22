@@ -1,4 +1,4 @@
-# read docsnake.txt before running
+# read Docsnake.md before running
 import turtle
 import random
 
