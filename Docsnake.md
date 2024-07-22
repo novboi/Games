@@ -53,3 +53,6 @@ python -c "import tkinter; print(tkinter.TkVersion)"
 This should print the version of Tkinter installed.
 
 6.Run the snake.py file and enjoy
+<img width="1625" alt="Screenshot 2024-07-22 at 7 21 54 PM" src="https://github.com/user-attachments/assets/f78cb613-4dd7-485e-88b2-88ff9e98a3e3">
+
+
